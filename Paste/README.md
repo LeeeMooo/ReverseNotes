@@ -29,7 +29,9 @@
 
 ### 0x2. 运行程序
 ![img.png](images/img2.png)
+
 下断点后运行程序，暂停在了断点1.1上。输入`bt`查看调用栈
+
 ![img.png](images/img3.png)
 
 ### 0x3. 分析关键跳转
